@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Bibek 👋
 
-<!--
-**bibekkar207-afk/bibekkar207-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Developer | BCA Final Year Student
 
-Here are some ideas to get you started:
+I'm an aspiring Software Developer interested in Java Backend Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BCA Final Year Student
+- 💻 Learning Java and Backend Development
+- 🗄️ Knowledge of MySQL and JDBC
+- 🚀 Building real-world Java projects
+- 🎯 Looking for Software Developer / Java Developer Fresher opportunities
+
+### Technical Skills
+
+- **Programming:** Java
+- **Database:** MySQL, SQL
+- **Java Concepts:** OOP, Collections (Learning)
+- **Database Connectivity:** JDBC
+- **Tools:** Git, GitHub, VS Code
+
+### Projects
+
+**1. Employee Management System**
+
+Java + OOP + MySQL + JDBC
+
+- Add and view employees
+- Search employees by ID
+- Update employee salary
+- Delete employee records
+- MySQL database connectivity
+
+[View Project](https://github.com/bibekkar207-afk/EmployeeManagementSystem)
+
+### Connect With Me
+
+- GitHub: https://github.com/bibekkar207-afk
